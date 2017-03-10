@@ -1,8 +1,8 @@
 <?xml version="1.0" ?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
-<coverage lines-valid="5"  lines-covered="5"  line-rate="1"  branches-valid="0"  branches-covered="0"  branch-rate="1"  timestamp="1489136557614" complexity="0" version="0.1">
+<coverage lines-valid="5"  lines-covered="5"  line-rate="1"  branches-valid="0"  branches-covered="0"  branch-rate="1"  timestamp="1489137819104" complexity="0" version="0.1">
 <sources>
-	<source>/home/1230154/Documents/sample_js</source>
+	<source>/home/1230154/Documents/NodeJS_HTML</source>
 </sources>
 <packages>
 	<package name="spec"  line-rate="1"  branch-rate="1" >
