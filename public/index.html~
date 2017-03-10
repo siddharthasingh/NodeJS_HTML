@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Simple Node App Template</title>
+    </head>
+    <body>
+               
+        <form action="/svc/add" method="POST">
+<table>
+<tr>
+		
+	<td>Enter First Number</td>	<td><input name="num1" type="number" namespace=""></td>
+ </tr>
+ <tr> 
+<td>+ </td> 
+</tr>
+	<tr>
+ <td>Enter Second Number</td> <td><input name="num2" type="number"> <td>     </tr>
+	<tr>  <td>	<button type="submit">Submit</button> </td>  </tr>
+</table>
+        </form>
+    </body>
+</html>

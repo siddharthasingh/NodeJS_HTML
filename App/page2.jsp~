@@ -1,0 +1,18 @@
+<html>
+<head><title>Sum of two number</title></head>
+<body>
+
+Sum of numbser <br>
+
+<%
+int x,y;
+x=Integer.parseInt(request.getParameter(“no1”));
+y=Integer.parseInt(request.getParameter(“no2”));
+out.print(x+y);
+
+%>
+
+</body>
+</html>
+
+

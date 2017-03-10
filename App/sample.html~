@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript" src="ExampleCode.js"></script>
+
+</head>
+<body>
+
+<p> Add Section </p>
+
+<label>First No :</label>
+<input id="txt1"  type="text"/><br />
+<label>Second No :</label>
+<input id="txt2"  type="text"/><br />
+
+<input type="button" name="Add" value="Add" onclick="addTwoNumber(txt1,txt2)"/>
+<p id="demo"></p>
+
+<input type="button" name="Add" value="Multiply" onclick="multiplyTwoNumber()"/>
+<p id="demo1"></p>
+
+
+</body>
+</html> 
