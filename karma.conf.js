@@ -34,7 +34,7 @@ module.exports = function(config) {
 
            'jasmin/spec/UnitTest.js' :['coverage'],
            'App/addition.js' :['coverage'],
-	   'App/*.js' : ['babel']
+	//   'App/*.js' : ['babel']
 
     },
 
