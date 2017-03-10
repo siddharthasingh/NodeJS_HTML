@@ -33,6 +33,7 @@ module.exports = function(config) {
     preprocessors: {
 
            'jasmin/spec/UnitTest.js' :['coverage'],
+           'App/addition.js' :['coverage'],
 	   'App/*.js' : ['babel']
 
     },
