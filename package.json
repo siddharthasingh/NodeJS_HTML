@@ -1,0 +1,13 @@
+{
+  "name": "my-web-app",
+  "version": "1.0.0",
+  "description": "A simple node js express web app",
+ "author": "Ankita Patil <ankita.patil2@tcs.com>",
+
+  "dependencies": {
+        "express": "",
+        "body-parser": ""
+    },
+    "private": true
+ 
+}
